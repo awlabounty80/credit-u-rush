@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npx ampx pipeline-deploy --branch $VERCEL_GIT_COMMIT_REF --app-id d35id6p8h8j50p && next build",
+    "build": "npx ampx pipeline-deploy --branch main --app-id PUT_YOUR_APP_ID_HERE && next build",
     "start": "next start",
     "lint": "next lint"
   },
