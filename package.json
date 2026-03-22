@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npx ampx pipeline-deploy --branch main --app-id PUT_YOUR_APP_ID_HERE && next build",
+    "build": "npx ampx pipeline-deploy --branch main --app-id d2fh9997yzdgoe && next build",
     "start": "next start",
     "lint": "next lint"
   },
